@@ -10,9 +10,9 @@ range of angles while a light-dependent resistor records how much light reaches
 it; the critical angle is recovered from the steep edge of that signal, and
 converted to refractive index on board.
 
-**Team** — Yong Isaac Tze Hsi · Ng Yi-Shen · Shah Prish Vaishal
-**Mentor** — Mr Li Zhen, CRADLE, Science Centre Singapore
-**Teacher advisors** — Mdm Ali Basheera Banu, Mr Alvin Liew Shao Chuan
+**Team** — Yong Isaac Tze Hsi · Ng Yi-Shen · Shah Prish Vaishal \
+**Mentor** — Mr Li Zhen, CRADLE, Science Centre Singapore\
+**Teacher advisors** — Mdm Ali Basheera Banu, Mr Alvin Liew Shao Chuan\
 **School** — Anglo-Chinese School (Independent), Singapore
 
 ## Headline results
