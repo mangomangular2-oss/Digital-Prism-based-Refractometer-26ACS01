@@ -22,7 +22,7 @@ converted to refractive index on board.
 | Mean deviation from reference values, five liquids | 0.18 % |
 | Repeatability (standard error of five repeats, in *n*) | ±0.0005 |
 | Total build cost | S$291 |
-| Range | *n* = 1.33 – 1.498 (upper limit set by the prism geometry) |
+| Range | *n* = 1.000 – 1.498 (upper limit set by the prism's geometry and refractive index) |
 
 ## What is in this repository
 
@@ -56,13 +56,3 @@ times better. Where the brightest point falls depends on the beam width and the
 sensor's position, so it shifts when the stage sweeps the other way; the steep
 edge does not. `analysis/intensity_profile.py` shows both, for both sweep
 directions.
-
-## Licence
-
-Not yet chosen. Add one before sharing the link publicly — without a licence,
-nobody is legally allowed to reuse the code or data even though they can see it.
-
-On GitHub: **Add file → Create new file**, type `LICENSE` as the filename, and a
-"Choose a license template" button appears. **MIT** is the usual choice for
-project code like this. Check with your teacher advisors first, since work done
-under a school programme may not be yours alone to license.
