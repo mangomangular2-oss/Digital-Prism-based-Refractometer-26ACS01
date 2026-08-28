@@ -29,7 +29,7 @@ converted to refractive index on board.
 | Folder | Contents |
 |---|---|
 | `firmware/` | The Arduino sketch that runs the instrument |
-| `cad/` | 3D-printable parts for the optical head and stage |
+| `hardware/` | 3D-printable parts for the optical head and stage, as well as circuit schematic and total build cost |
 | `data/` | Raw measurements, exactly as recorded |
 | `analysis/` | Python scripts that turn the data into the paper's figures |
 | `docs/` | The research paper and conference poster |
